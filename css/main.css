@@ -23,7 +23,7 @@
   height: 800px;
   min-height: 500px;
   width: 100%;
-  background: #161400;
+  background: #161415 url(../images/background.jpg) no-repeat top center;
   background-color: rgba(90,0,0,0.35); /* tint */
   background-blend-mode: multiply;
   background-size: cover !important;
@@ -369,7 +369,7 @@ fieldset[disabled] .btn-med.active {
   }
 }
 header {
-  background-image: url('../img/header-bg.jpg');
+  background-image: url('../images/background.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
